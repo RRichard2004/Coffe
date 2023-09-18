@@ -1,0 +1,16 @@
+C:\Users\Confetti\Desktop\Coffe\Coffe\bin\Debug\netstandard2.0\Coffe.deps.json
+C:\Users\Confetti\Desktop\Coffe\Coffe\bin\Debug\netstandard2.0\Coffe.dll
+C:\Users\Confetti\Desktop\Coffe\Coffe\bin\Debug\netstandard2.0\ref\Coffe.dll
+C:\Users\Confetti\Desktop\Coffe\Coffe\bin\Debug\netstandard2.0\Coffe.pdb
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.csproj.AssemblyReference.cache
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.AssemblyInfoInputs.cache
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.AssemblyInfo.cs
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.dll
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\refint\Coffe.dll
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Coffe.pdb
+C:\Users\Confetti\Desktop\Coffe\Coffe\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FlDSKmCdKqBYAYgWN5TT8GKfyTaYLvqkfUqJfkyucUEvzulldw5gTqr9nyA+DeOOeR/hlnlVDiF9HBfbhKK2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Confetti\\Desktop\\Coffe\\Coffe.iOS\\Coffe.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Confetti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Confetti\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Confetti\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
